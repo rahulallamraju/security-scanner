@@ -1,6 +1,6 @@
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
-# 🔒 Full-Stack AI Security Scanner
+# Full-Stack AI Security Scanner
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/ai-security-audit)
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 A comprehensive full-stack web application that performs AI-powered security vulnerability scanning on Python code. The application features a modern React frontend, Node.js backend API, and integrates Google's Gemini AI for intelligent code analysis.
 
@@ -38,7 +38,7 @@ A comprehensive full-stack web application that performs AI-powered security vul
 - **Severity Classification**: Vulnerabilities categorized as CRITICAL, HIGH, MEDIUM, or LOW
 - **Detailed Reports**: Includes vulnerability descriptions, impacts, and fix recommendations
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - UI framework
@@ -62,7 +62,7 @@ A comprehensive full-stack web application that performs AI-powered security vul
 - **google-genai 1.61.0** - Official Gemini SDK
 - **python-dotenv** - Environment configuration
 
-## ✨ Features
+## Features
 
 ### Security Detection Capabilities
 - SQL Injection vulnerabilities
@@ -143,7 +143,7 @@ pip install google-genai python-dotenv
 
 ---
 
-## 🔑 Environment Setup
+## Environment Setup
 
 ### 1. Create Environment Files
 
@@ -363,20 +363,13 @@ Future enhancements planned:
 - PDF report generation
 - Webhook notifications for critical findings
 
----
-
-## 📝 License
-
-This project is part of the NextWork AI Security Audit course.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **NextWork** for the project inspiration and structure
 - **Google Gemini AI** for powering the intelligent code analysis
 - **React** and **Vite** communities for excellent tooling
 
----
 
-**Made with ❤️ by Rahul Allamraju**
